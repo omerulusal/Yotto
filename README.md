@@ -1,6 +1,5 @@
 # Yotto
 
 
+![sss](https://user-images.githubusercontent.com/96357374/224846310-cc2dcba1-57af-4156-89ab-9baedcc51bf4.png)
 
-
-![yotto](https://user-images.githubusercontent.com/96357374/224403369-1d8e4157-dc3f-490a-beac-b325657dfb31.png)
