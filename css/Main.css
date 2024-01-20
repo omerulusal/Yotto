@@ -1,6 +1,6 @@
 /* GENERAL SETTINGS */
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif !important;
     background-color: white;
     font-size: 14px;
     font-weight: 28px;
@@ -10,6 +10,15 @@ body {
     font-size: 52px;
     letter-spacing: 2px;
     margin-bottom: 20px;
+    color: wheat;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.pcaption {
+    color: wheat;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .sectionHeader {
@@ -44,7 +53,7 @@ h3 {
 }
 
 .sectionArea {
-    padding: 80px 0;
+    padding: 10px 0;
     /*sectionlar arası 80px lik yukarıdan aşağıya boşluk verdim sağ sol 0*/
 }
 
@@ -120,6 +129,19 @@ header .logo {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.logoimg {
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.Logotext {
+    font-size: small;
+    text-align: center;
+    color: black;
+    letter-spacing: 1px;
 }
 
 .slider {
@@ -1295,7 +1317,8 @@ textarea {
         font-size: small;
         padding-bottom: 10px;
     }
-    .wrapper .contactForm{
+
+    .wrapper .contactForm {
         width: 80%;
     }
 
